@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LeetCodeProblems](https://github.com/BhavinThakkar18/Leet_Code)
 
-- 🌱 I’m currently learning **Java, DSA and Algorithms**
+- 🌱 I’m currently learning **Java, DSA and DevOps**
 
 - 👯 I’m looking to collaborate on [GeeksForGeeeks](https://github.com/BhavinThakkar18/GeeksForGeeksProblems)
 
