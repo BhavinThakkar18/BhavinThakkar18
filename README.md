@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhavin.</h1>
-Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,
+Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,<h1 align="center"> I'm Bhavin.</h1>
+
 <h3 align="center">A passionate software developer from India</h3>
 
 - 🔭 I’m currently working on [LeetCodeProblems](https://github.com/BhavinThakkar18/Leet_Code)
