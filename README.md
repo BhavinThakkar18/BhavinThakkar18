@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I'm Bhavin.</h1>
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=BhavinThakkar18.visitor-badge)
 <h3 align="center">A passionate software developer from India</h3>
 
 - 🔭 I’m currently working on [LeetCodeProblems](https://github.com/BhavinThakkar18/Leet_Code)
